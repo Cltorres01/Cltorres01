@@ -1,16 +1,17 @@
-### Hi there 👋
+## Olá! Eu sou o Carlos Torres 👋
+### Bem vindo(a) ao meu perfil gitHub
 
-<!--
-**Cltorres01/Cltorres01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando Html, CSS e JS (Formação full stack)
+- 😄 Pronouns: ele/dele
+- ⚡ Servidor público, bacharel em Direito, alçando novos horizontes em busca de iniciar uma nova carreira.
 
-Here are some ideas to get you started:
+<a href = "carloseltorres1995@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/carloseltorres" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div>
+<a href="https://github.com/Cltorres01">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cltorres01&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Cltorres01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 -->
